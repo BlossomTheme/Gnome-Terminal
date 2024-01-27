@@ -16,7 +16,7 @@ function logo () {
 
 
 function default_mode(){
-    PALETTTE="['#f46e00','#f70047','#00ff7d','#fcdd42','#26b3d2','#9200ff','#ea748f','#d3d7cf','#f5ac00','#ff5555','#55ff55','#ffff55','#729fcf','#ff0eff','#34e2e2','#eeeeec']"
+    PALETTTE="['#f46e00','#ff058d','#00ff7d','#fcdd42','#26b3d2','#9200ff','#ea748f','#d3d7cf','#f5ac00','#ff5555','#55ff55','#ffff55','#729fcf','#ff0eff','#34e2e2','#eeeeec']"
 
     echo "Blossom Installer Script :)"
 
