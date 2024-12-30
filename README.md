@@ -6,6 +6,9 @@
 
 ## Installation
 
+### Video Tutorial
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QnmH9u86LfI/0.jpg)](https://www.youtube.com/watch?v=QnmH9u86LfI)
+
 Since Gnome-Terminal does not come with an prebuilt method to change it’s theme according to a preconfigured colo palette, many people hav found different ways to do this. The way I prefer to do this is by using a tool called dconf which is a low-level configuration system. Its main purpose is to provide a backend to GSettings on platforms that don’t already have configuration storage systems.
 
 Usage of dconf for writing new values is really easy. The basic syntax is:
